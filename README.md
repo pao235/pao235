@@ -44,7 +44,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/pao235?style=for-the-badge&logo=github&label=Followers" alt="Followers">
-  <img src="https://img.shields.io/github/stars/pao235?style=for-the-badge&logo=github&label=Stars" alt="Stars">
-  <img src="https://img.shields.io/github/search/pao235/pao235/pao235?style=for-the-badge&label=Repos" alt="Repos">
+  <img src="https://streak-stats.demolab.com/?user=pao235&theme=dark&hide_border=true" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pao235&theme=github_dark" alt="Profile details">
 </p>
